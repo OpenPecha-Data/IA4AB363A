@@ -1,5 +1,7 @@
 id: P008142
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W8LS16402
   title: གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ།
@@ -10,10 +12,3 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 530
-ebook_metadata:
-  title: གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ།
-  author: ''
-  sku: P008142
-  cover: cover.jpg
-  layers:
-  - pagination
